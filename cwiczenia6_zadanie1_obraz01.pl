@@ -1,0 +1,9 @@
+samolot(airbusA380).
+przewody(pojedynczaWiazka).
+przewody(trzyWiazki).
+przewody(pojedynczaWiazkaCzerwona).
+przewody(wiazkaZwinieta).
+uklad(czarnyUklad).
+miejscowosc(rzym).
+linieLotnicze.
+czyJestLotDo(rzym):-samolot(airbusA380).
